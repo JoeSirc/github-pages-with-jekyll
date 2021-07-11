@@ -1,1 +1,2 @@
-oh shiiiii bout to mint my first NFT
+title: "Bout-to-drop-my-first-NFT"
+date: 2021-07-10
